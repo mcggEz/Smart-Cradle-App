@@ -53,6 +53,6 @@ Smart Cradle Application is a mobile app developed as our final project for **CP
   - Motion sensing functionality
  
 ##  Screenshots
- <img src="https://drive.google.com/file/d/16xIDMLFK1BZkoy7BOoX7qzohd9sR8PZn/view?usp=sharing" alt="Smart Cradle App UI"/>
+ <img src="https://drive.google.com/file/d/16xIDMLFK1BZkoy7BOoX7qzohd9sR8PZn" alt="Smart Cradle App UI"/>
 
 
