@@ -1,7 +1,5 @@
 # Smart Cradle Application
 
-## About The Project
-
 Smart Cradle Application is a mobile app developed as our final project for **CPE 0316-2 - Fundamentals of Mixed Signals and Sensors** course. The application interfaces with an **Arduino-based IoT system** through **Bluetooth (HC-05)** to provide intelligent cradle control functionality.
 
 ## Operating Modes
