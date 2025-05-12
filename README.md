@@ -1,25 +1,57 @@
-Smart Cradle Application
-Smart Cradle Application is a mobile app developed as part of our final project in CPE 0316-2 - Fundamentals of Mixed Signals and Sensors course. The app connects to an Arduino-based IoT system via Bluetooth (HC-05) to control a motor. It offers two modes:
+# Smart Cradle Application
 
-Modes:
-Smart Mode: Activates the cradle's motor based on sound detection from integrated sensors.
+## About The Project
 
-Manual Mode: Allows manual control of the motor.
+Smart Cradle Application is a mobile app developed as our final project for **CPE 0316-2 - Fundamentals of Mixed Signals and Sensors** course. The application interfaces with an **Arduino-based IoT system** through **Bluetooth (HC-05)** to provide intelligent cradle control functionality.
 
-Features:
-Smart Mode: Sound sensors detect noise and automatically activate the system.
+## Operating Modes
 
-Manual Mode: Direct manual control for motor.
+### Smart Mode
+- **Automated Operation**: System activates the cradle's motor based on sound detection
+- **Sensor Integration**: Utilizes integrated sensors for intelligent response
+- **Autonomous Control**: Automatically manages cradle movement based on environmental inputs
 
-Bluetooth Connectivity: Communicates with Arduino via HC-05.
+### Manual Mode
+- **Direct Control**: User-controlled motor operation
+- **Real-time Response**: Immediate system feedback
+- **Override Capability**: Full manual control when needed
 
-Sensor Integration: Integrates motion and temperature sensors to enhance functionality.
+## Key Features
 
-Technologies Used:
-Arduino: For embedded system and hardware control.
+- **Dual Mode Operation**
+  - Smart Mode with sensor-based automation
+  - Manual Mode for direct user control
 
-Bluetooth (HC-05): For communication between the app and the Arduino.
+- **Advanced Connectivity**
+  - Bluetooth integration via HC-05 module
+  - Reliable communication with Arduino system
 
-Mobile App Development: Built using React Native, NativeWind, and Expo.
+- **Sensor Suite**
+  - Sound detection capabilities
+  - Motion sensing functionality
 
-Programming Languages: JavaScript (for React Native) and C (for Arduino).
+
+## Technical Architecture
+
+### Hardware Components
+- **Arduino System**
+  - Core embedded system controller
+  - Motor control implementation
+  - Sensor integration hub
+
+- **Bluetooth Module**
+  - HC-05 communication interface
+  - Wireless connectivity
+  - Real-time data transmission
+
+### Software Stack
+- **Mobile Application**
+  - React Native framework
+  - NativeWind for styling
+  - Expo development platform
+
+- **Programming Languages**
+  - JavaScript (Mobile Application)
+  - C (Arduino Implementation)
+
+**Note**: This project was developed as an academic requirement for CPE 0316-2 - Fundamentals of Mixed Signals and Sensors course.
