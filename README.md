@@ -1,5 +1,5 @@
 Smart Cradle Application
-The Smart Cradle Application is a mobile app developed for the final project in the Fundamentals of Mixed Signals and Sensors course. The app connects to an Arduino-based IoT system via Bluetooth (HC-05) to control a motor and music playback. It offers two modes:
+Smart Cradle Application is a mobile app developed as part of our final project in CPE 0316-2 - Fundamentals of Mixed Signals and Sensors course. The app connects to an Arduino-based IoT system via Bluetooth (HC-05) to control a motor. It offers two modes:
 
 Modes:
 Smart Mode: Activates the cradle's motor based on sound detection from integrated sensors.
