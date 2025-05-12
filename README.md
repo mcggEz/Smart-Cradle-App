@@ -4,6 +4,16 @@ Smart Cradle Application is a mobile app developed as our final project for **CP
 
 ## Technical Architecture
 
+### Software Stack
+- **Mobile Application**
+  - React Native framework
+  - NativeWind for styling
+  - Expo development platform
+
+- **Programming Languages**
+  - JavaScript (Mobile Application)
+  - C (Arduino Implementation)
+
 ### Hardware Components
 - **Arduino System**
   - Core embedded system controller
@@ -14,16 +24,6 @@ Smart Cradle Application is a mobile app developed as our final project for **CP
   - HC-05 communication interface
   - Wireless connectivity
   - Real-time data transmission
-
-### Software Stack
-- **Mobile Application**
-  - React Native framework
-  - NativeWind for styling
-  - Expo development platform
-
-- **Programming Languages**
-  - JavaScript (Mobile Application)
-  - C (Arduino Implementation)
 
 
 ## Operating Modes
@@ -51,6 +51,7 @@ Smart Cradle Application is a mobile app developed as our final project for **CP
 - **Sensor Suite**
   - Sound detection capabilities
   - Motion sensing functionality
+
 
 
 
