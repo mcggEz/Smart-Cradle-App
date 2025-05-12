@@ -54,4 +54,4 @@ Smart Cradle Application is a mobile app developed as our final project for **CP
   - JavaScript (Mobile Application)
   - C (Arduino Implementation)
 
-**Note**: This project was developed as an academic requirement for CPE 0316-2 - Fundamentals of Mixed Signals and Sensors course.
+
