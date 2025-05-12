@@ -2,6 +2,30 @@
 
 Smart Cradle Application is a mobile app developed as our final project for **CPE 0316-2 - Fundamentals of Mixed Signals and Sensors** course. The application interfaces with an **Arduino-based IoT system** through **Bluetooth (HC-05)** to provide intelligent cradle control functionality.
 
+## Technical Architecture
+
+### Hardware Components
+- **Arduino System**
+  - Core embedded system controller
+  - Motor control implementation
+  - Sensor integration hub
+
+- **Bluetooth Module**
+  - HC-05 communication interface
+  - Wireless connectivity
+  - Real-time data transmission
+
+### Software Stack
+- **Mobile Application**
+  - React Native framework
+  - NativeWind for styling
+  - Expo development platform
+
+- **Programming Languages**
+  - JavaScript (Mobile Application)
+  - C (Arduino Implementation)
+
+
 ## Operating Modes
 
 ### Smart Mode
@@ -28,28 +52,5 @@ Smart Cradle Application is a mobile app developed as our final project for **CP
   - Sound detection capabilities
   - Motion sensing functionality
 
-
-## Technical Architecture
-
-### Hardware Components
-- **Arduino System**
-  - Core embedded system controller
-  - Motor control implementation
-  - Sensor integration hub
-
-- **Bluetooth Module**
-  - HC-05 communication interface
-  - Wireless connectivity
-  - Real-time data transmission
-
-### Software Stack
-- **Mobile Application**
-  - React Native framework
-  - NativeWind for styling
-  - Expo development platform
-
-- **Programming Languages**
-  - JavaScript (Mobile Application)
-  - C (Arduino Implementation)
 
 
